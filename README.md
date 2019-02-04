@@ -16,6 +16,7 @@
 - API 서버 테스팅: Postman에서 아래와 같이 json Request를 전송하고 json이 리턴되는지 테스트 해봅니다.
 	- URL: http://localhost:3000/clova
 	- 요청 방법: POST 
+	- Header:  Content-Type: application/json
 	- Body: raw ( JSON 선택 ) 
 - 요청 예시) 
 ```
